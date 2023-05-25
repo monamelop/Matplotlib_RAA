@@ -1,0 +1,23 @@
+BEGIN YODA_SCATTER2D_V2 /REF/ATLAS_2018_I1673184/d20-x01-y01
+ErrorBreakdown: {0: {stat: {dn: -0.0024, up: 0.0024}, sys: {dn: -0.011, up: 0.0109}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.0097, up: 0.0097}}, 1: {stat: {dn: -0.0025, up: 0.0025}, sys: {dn: -0.0109, up: 0.0106}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.0102, up: 0.0102}}, 2: {stat: {dn: -0.0028, up: 0.0028}, sys: {dn: -0.0111, up: 0.0109}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.0106, up: 0.0106}}, 3: {stat: {dn: -0.0033, up: 0.0033}, sys: {dn: -0.0109, up: 0.0108}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.011, up: 0.011}}, 4: {stat: {dn: -0.004, up: 0.004}, sys: {dn: -0.011, up: 0.011}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.011, up: 0.011}}, 5: {stat: {dn: -0.005, up: 0.005}, sys: {dn: -0.011, up: 0.011}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.011, up: 0.011}}, 6: {stat: {dn: -0.006, up: 0.006}, sys: {dn: -0.012, up: 0.012}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.012, up: 0.012}}, 7: {stat: {dn: -0.009, up: 0.009}, sys: {dn: -0.014, up: 0.014}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.012, up: 0.012}}, 8: {stat: {dn: -0.012, up: 0.012}, sys: {dn: -0.014, up: 0.014}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.012, up: 0.012}}, 9: {stat: {dn: -0.017, up: 0.017}, sys: {dn: -0.014, up: 0.014}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.012, up: 0.012}}, 10: {stat: {dn: -0.02, up: 0.02}, sys: {dn: -0.015, up: 0.015}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.013, up: 0.013}}, 11: {stat: {dn: -0.04, up: 0.04}, sys: {dn: -0.01, up: 0.01}, sys TAA uncertainty: {dn: -0.0123, up: 0.0123}, sys luminosity uncertainty: {dn: -0.01, up: 0.01}}}
+IsRef: 1
+Path: /REF/ATLAS_2018_I1673184/d20-x01-y01
+Title: doi:10.17182/hepdata.84819.v1/t20
+Type: Scatter2D
+---
+# xval	 xerr-	 xerr+	 yval	 yerr-	 yerr+	
+1.060000e+02	6.000000e+00	6.000000e+00	5.047000e-01	1.929093e-02	1.923408e-02
+1.185000e+02	6.500000e+00	6.500000e+00	5.279000e-01	1.950359e-02	1.933753e-02
+1.330000e+02	8.000000e+00	8.000000e+00	5.506000e-01	1.986706e-02	1.975601e-02
+1.495000e+02	8.500000e+00	8.500000e+00	5.702000e-01	2.004969e-02	1.999550e-02
+1.675000e+02	9.500000e+00	9.500000e+00	5.860000e-01	2.023092e-02	2.023092e-02
+1.880000e+02	1.100000e+01	1.100000e+01	5.950000e-01	2.045214e-02	2.045214e-02
+2.110000e+02	1.200000e+01	1.200000e+01	6.140000e-01	2.180115e-02	2.180115e-02
+2.370000e+02	1.400000e+01	1.400000e+01	6.500000e-01	2.392258e-02	2.392258e-02
+2.660000e+02	1.500000e+01	1.500000e+01	6.480000e-01	2.520496e-02	2.520496e-02
+2.985000e+02	1.750000e+01	1.750000e+01	6.400000e-01	2.793367e-02	2.793367e-02
+3.570000e+02	4.100000e+01	4.100000e+01	6.820000e-01	3.074557e-02	3.074557e-02
+5.140000e+02	1.160000e+02	1.160000e+02	6.600000e-01	4.417341e-02	4.417341e-02
+END YODA_SCATTER2D_V2
+
+
