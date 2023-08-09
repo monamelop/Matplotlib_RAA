@@ -1,0 +1,54 @@
+BEGIN YODA_SCATTER2D_V2 /REF/CMS_2021_I1848440/d10-x01-y01
+ErrorBreakdown: {0: {TAA: {dn: -0.071, up: 0.071}, lumi: {dn: -0.016, up: 0.016}, stat: {dn: -0.037, up: 0.037}, sys: {dn: -0.03, up: 0.03}}, 1: {TAA: {dn: -0.075, up: 0.075}, lumi: {dn: -0.017, up: 0.017}, stat: {dn: -0.074, up: 0.074}, sys: {dn: -0.032, up: 0.032}}}
+IsRef: 1
+Path: /REF/CMS_2021_I1848440/d10-x01-y01
+Title: doi:10.17182/hepdata.93881.v1/t10
+Type: Scatter2D
+---
+# xval	 xerr-	 xerr+	 yval	 yerr-	 yerr+	
+4.500000e+02	5.000000e+01	5.000000e+01	7.040000e-01	8.698276e-02	8.698276e-02
+7.500000e+02	2.500000e+02	2.500000e+02	7.420000e-01	1.114181e-01	1.114181e-01
+END YODA_SCATTER2D_V2
+
+
+BEGIN YODA_SCATTER2D_V2 /REF/CMS_2021_I1848440/d10-x01-y02
+ErrorBreakdown: {0: {TAA: {dn: -0.036, up: 0.036}, lumi: {dn: -0.016, up: 0.016}, stat: {dn: -0.014, up: 0.014}, sys: {dn: -0.039, up: 0.039}}, 1: {TAA: {dn: -0.036, up: 0.036}, lumi: {dn: -0.016, up: 0.016}, stat: {dn: -0.037, up: 0.037}, sys: {dn: -0.033, up: 0.033}}, 2: {TAA: {dn: -0.042, up: 0.042}, lumi: {dn: -0.019, up: 0.019}, stat: {dn: -0.079, up: 0.079}, sys: {dn: -0.037, up: 0.037}}}
+IsRef: 1
+Path: /REF/CMS_2021_I1848440/d10-x01-y02
+Title: doi:10.17182/hepdata.93881.v1/t10
+Type: Scatter2D
+---
+# xval	 xerr-	 xerr+	 yval	 yerr-	 yerr+	
+3.500000e+02	5.000000e+01	5.000000e+01	7.070000e-01	5.717517e-02	5.717517e-02
+4.500000e+02	5.000000e+01	5.000000e+01	6.960000e-01	6.332456e-02	6.332456e-02
+7.500000e+02	2.500000e+02	2.500000e+02	8.250000e-01	9.866610e-02	9.866610e-02
+END YODA_SCATTER2D_V2
+
+
+BEGIN YODA_SCATTER2D_V2 /REF/CMS_2021_I1848440/d10-x01-y03
+ErrorBreakdown: {0: {TAA: {dn: -0.02, up: 0.02}, lumi: {dn: -0.018, up: 0.018}, stat: {dn: -0.017, up: 0.017}, sys: {dn: -0.034, up: 0.034}}, 1: {TAA: {dn: -0.021, up: 0.021}, lumi: {dn: -0.019, up: 0.019}, stat: {dn: -0.026, up: 0.026}, sys: {dn: -0.024, up: 0.024}}}
+IsRef: 1
+Path: /REF/CMS_2021_I1848440/d10-x01-y03
+Title: doi:10.17182/hepdata.93881.v1/t10
+Type: Scatter2D
+---
+# xval	 xerr-	 xerr+	 yval	 yerr-	 yerr+	
+2.750000e+02	2.500000e+01	2.500000e+01	7.760000e-01	4.657252e-02	4.657252e-02
+3.500000e+02	5.000000e+01	5.000000e+01	8.440000e-01	4.532108e-02	4.532108e-02
+END YODA_SCATTER2D_V2
+
+
+BEGIN YODA_SCATTER2D_V2 /REF/CMS_2021_I1848440/d10-x01-y04
+ErrorBreakdown: {0: {TAA: {dn: -0.015, up: 0.015}, lumi: {dn: -0.018, up: 0.018}, stat: {dn: -0.016, up: 0.016}, sys: {dn: -0.034, up: 0.034}}, 1: {TAA: {dn: -0.015, up: 0.015}, lumi: {dn: -0.019, up: 0.019}, stat: {dn: -0.031, up: 0.031}, sys: {dn: -0.032, up: 0.032}}, 2: {TAA: {dn: -0.015, up: 0.015}, lumi: {dn: -0.019, up: 0.019}, stat: {dn: -0.047, up: 0.047}, sys: {dn: -0.031, up: 0.031}}}
+IsRef: 1
+Path: /REF/CMS_2021_I1848440/d10-x01-y04
+Title: doi:10.17182/hepdata.93881.v1/t10
+Type: Scatter2D
+---
+# xval	 xerr-	 xerr+	 yval	 yerr-	 yerr+	
+2.250000e+02	2.500000e+01	2.500000e+01	8.020000e-01	4.428318e-02	4.428318e-02
+2.750000e+02	2.500000e+01	2.500000e+01	8.120000e-01	5.070503e-02	5.070503e-02
+3.500000e+02	5.000000e+01	5.000000e+01	8.250000e-01	6.128621e-02	6.128621e-02
+END YODA_SCATTER2D_V2
+
+
